@@ -1,9 +1,13 @@
 import React from 'react'
-import PassGen from './Component/PassGen'
+import Weather from './Component/Weather'
+// import Increment from './Component/Increment'
+// import PassGen from './Component/PassGen'
 const App = () => {
   return (
     <div>
-      <PassGen/>
+      {/* <PassGen/> */}
+      {/* <Increment/> */}
+      <Weather/>
     </div>
   )
 }
